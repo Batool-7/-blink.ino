@@ -1,0 +1,12 @@
+int ledNumber= 2;
+int delayTime= 1000;
+void setup() {
+  pinMode(ledNumber, OUTPUT); 
+}
+
+void loop() {
+  digitalWrite(ledNumber, HIGH); 
+  delay(delayTime);           
+  digitalWrite(ledNumber, LOW); 
+  delay(delayTime);            
+}
