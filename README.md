@@ -20,19 +20,13 @@ The LED blinks ON and OFF every second using pin 13 on the Arduino Uno.
 
 ## 📷 Project Image
 
-![Blink LED](images/blink.jpg)
 
----
-
-## 🔌 Circuit Diagram
-
-*(Add image or link here if you have one)*
-
+i add pic in one of the files
 ---
 
 ## 💻 Code
 
-See `blink.ino` for the full Arduino code.
+i add the code in one of the files caled code
 
 ---
 
@@ -43,5 +37,3 @@ See `blink.ino` for the full Arduino code.
 
 ---
 
-## 🎯 Next Step
-Add a button to control the LED!
